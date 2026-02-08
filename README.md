@@ -53,11 +53,16 @@ The report consists of multiple analytical pages:
 
 ---
 
-## 🚀 How to View the Project
-### Option 1: Quick Preview (Recommended)
-Click on the file **`Telecome-Project-Dashboards.pdf`** in this repository to see the dashboard pages instantly in your browser.
+## 📂 Dashboard Overview
+<img width="1274" height="718" alt="Screenshot 2026-02-08 181342" src="https://github.com/user-attachments/assets/b46b48c6-a3b5-49b5-9d59-c7f3ea083e30" />
 
-### Option 2: Full Interactive Experience
+<img width="1276" height="719" alt="Screenshot 2026-02-08 181242" src="https://github.com/user-attachments/assets/371c2a75-5e0c-42ec-9ed5-30251bc45ec4" />
+
+<img width="1281" height="718" alt="Screenshot 2026-02-08 181416" src="https://github.com/user-attachments/assets/8b152200-7f7e-4e57-8a6c-6ef236ada266" />
+
+<img width="1278" height="718" alt="Screenshot 2026-02-08 181432" src="https://github.com/user-attachments/assets/d64c01f2-48b3-4fc6-b763-09e23fc05479" />
+
+### Full Interactive Experience
 1. Download `Telecome_ Churn_Project.pbix`.
 2. Open it in **Microsoft Power BI Desktop**.
 3. Use the slicers (Age, State, Payment Method) to cross-filter the visuals and explore the data.
